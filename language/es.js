@@ -94,10 +94,19 @@ var Translations = {
             ]
         },
         {
-            "label": "Tu Opción",
+            "label": "Seleccione una opción",
             "states": [
                 {
-                    "cardId": "8a53e08d",
+                    "cardId": "e0ddfe2c",
+                    "width": 20
+                }
+            ]
+        },
+       {
+            "label": "Encuesta",
+            "states": [
+                {
+                    "cardId": "a7bf3510",
                     "width": 20
                 }
             ]
@@ -106,7 +115,7 @@ var Translations = {
             "label": "Gracias",
             "states": [
                 {
-                    "cardId": "fbed4eb9",
+                    "cardId": "End",
                     "width": 20
                 }
             ]
