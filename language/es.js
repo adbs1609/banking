@@ -103,7 +103,7 @@ var Translations = {
             ]
         },
         {
-            "label": "Seleccione una opción",
+            "label": "Seleccione Dos opción",
             "states": [
                 {
                     "cardId": "e0ddfe2c",
@@ -120,14 +120,6 @@ var Translations = {
                 }
             ]
         },
-        {
-            "label": "Gracias",
-            "states": [
-                {
-                    "cardId": "End",
-                    "width": 20
-                }
-            ]
-        }
+        
     ]
 }
