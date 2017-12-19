@@ -89,7 +89,16 @@ var Translations = {
             "states": [
                 {
                     "cardId": "START",
-                    "width": 60
+                    "width": 20
+                }
+            ]
+        },
+       {
+            "label": "Detalles de Cuenta",
+            "states": [
+                {
+                    "cardId": "c78af115",
+                    "width": 20
                 }
             ]
         },
