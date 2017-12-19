@@ -103,10 +103,19 @@ var Translations = {
             ]
         },
         {
-            "label": "Seleccione Dos opción",
+            "label": "Seleccione una opción",
             "states": [
                 {
                     "cardId": "e0ddfe2c",
+                    "width": 20
+                }
+            ]
+        },
+       {
+            "label": "Promoción",
+            "states": [
+                {
+                    "cardId": "c78af115",
                     "width": 20
                 }
             ]
