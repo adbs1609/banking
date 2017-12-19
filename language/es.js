@@ -97,7 +97,7 @@ var Translations = {
             "label": "Detalles de Cuenta",
             "states": [
                 {
-                    "cardId": "c78af115",
+                    "cardId": "e0ddfe2c",
                     "width": 20
                 }
             ]
